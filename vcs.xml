@@ -1,0 +1,62 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.nsparc.msstate.edu" />
+          <option name="userName" value="ppismerov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ppismerov@bitbucket.nsparc.msstate.edu/scm/mdhsglob/commons.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ppismerov@bitbucket.nsparc.msstate.edu/scm/mdhsglob/dynamicmodels.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ppismerov@bitbucket.nsparc.msstate.edu/scm/mdhsglob/stablemodels.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="ppismerov" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/clm-teamcity.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/pavel-pismerov/kotlin-serial-version-uid-plugin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="unnamed231best@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/generator-iotatech-backend.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/clm_sp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="$USER_HOME$/sources/iotatech" />
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/sources" />
+  </component>
+</application>

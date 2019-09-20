@@ -1,0 +1,16 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ConvertJavaToKotlin">
+    <keyboard-shortcut first-keystroke="ctrl windows" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="Hg.Commit.And.Push.Executor" />
+  <action id="KotlinConsoleREPL">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="Scala.ShowImplicits">
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+</keymap>

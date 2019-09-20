@@ -1,0 +1,17 @@
+<application>
+  <component name="BitbucketCloudRegistry">
+    <lookup>
+      <record scheme="https" hostname="bitbucket.org" port="-1" instance="Production" />
+      <record scheme="ssh" hostname="bitbucket.org" port="-1" instance="Production" />
+    </lookup>
+  </component>
+  <component name="BitbucketServerRegistry">
+    <instances>
+      <instance uuid="797bada1-801f-35df-94e5-62d9ff28e58e" baseUri="https://bitbucket.nsparc.msstate.edu/" />
+    </instances>
+    <lookup>
+      <record scheme="https" hostname="bitbucket.nsparc.msstate.edu" port="-1" path="/" uuid="797bada1-801f-35df-94e5-62d9ff28e58e" />
+    </lookup>
+  </component>
+  <component name="Instance" id="8fe553a9-271c-4105-a778-d1605859c694" version="7.4" />
+</application>
