@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -18,7 +19,7 @@
     <mask>*.yml</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
-    <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
