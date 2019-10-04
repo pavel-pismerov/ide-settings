@@ -17,8 +17,8 @@
     <mask>*.xml</mask>
     <mask>*.yml</mask>
     <mask>*.html</mask>
-    <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
