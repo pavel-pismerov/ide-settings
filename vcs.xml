@@ -20,7 +20,7 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://bitbucket.org" />
-          <option name="userName" value="ppismerov" />
+          <option name="userName" value="MaxYasinski" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@bitbucket.org:iotaTechLtd/clm-teamcity.git" />
@@ -40,6 +40,14 @@
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="git@bitbucket.org:iotaTechLtd/clm_sp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://MaxYasinski@bitbucket.org/iotaTechLtd/clm-qa-config-properties.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/clm-qa-config-properties.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
