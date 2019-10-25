@@ -20,7 +20,7 @@
     <mask>*.yml</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.kt</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
