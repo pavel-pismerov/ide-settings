@@ -15,10 +15,10 @@
     <mask>*.yml</mask>
     <mask>*.</mask>
     <mask>*.gradle</mask>
-    <mask>*.scss</mask>
     <mask>*.kt</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
