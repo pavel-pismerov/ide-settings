@@ -20,7 +20,7 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
-    <mask>*.kt</mask>
     <mask>*.html</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
