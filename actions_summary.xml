@@ -45,8 +45,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581520252615" />
-              <option name="times" value="38" />
+              <option name="last" value="1581521183517" />
+              <option name="times" value="39" />
             </ActionSummary>
           </value>
         </entry>
@@ -181,8 +181,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581520346173" />
-              <option name="times" value="55" />
+              <option name="last" value="1581521176833" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
