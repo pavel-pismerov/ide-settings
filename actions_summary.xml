@@ -37,8 +37,8 @@
         <entry key="Git.Fetch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581506867395" />
-              <option name="times" value="2" />
+              <option name="last" value="1581506889214" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -77,16 +77,16 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504952642" />
-              <option name="times" value="2" />
+              <option name="last" value="1581507112477" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505748811" />
-              <option name="times" value="2" />
+              <option name="last" value="1581507107500" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
