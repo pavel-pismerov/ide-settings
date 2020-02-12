@@ -10,10 +10,34 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="EditorPaste">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581505663446" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorRightWithSelection">
           <value>
             <ActionSummary>
               <option name="last" value="1581503173452" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Clone">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581505661443" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Git.Fetch">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581505715222" />
               <option name="times" value="1" />
             </ActionSummary>
           </value>
@@ -37,8 +61,16 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504919444" />
-              <option name="times" value="4" />
+              <option name="last" value="1581506055581" />
+              <option name="times" value="12" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581505661436" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +85,8 @@
         <entry key="git4idea.ui.branch.GitBranchPopupActions$RemoteBranchActions$CheckoutRemoteBranchAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581504904629" />
-              <option name="times" value="1" />
+              <option name="last" value="1581505748811" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
