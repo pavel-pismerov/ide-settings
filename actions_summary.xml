@@ -2,6 +2,30 @@
   <component name="ActionsLocalSummary">
     <option name="data">
       <map>
+        <entry key="$Undo">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508771560" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Annotate">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508789113" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="EditorBackSpace">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508468137" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
@@ -13,8 +37,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505663446" />
-              <option name="times" value="1" />
+              <option name="last" value="1581508835634" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -23,6 +47,22 @@
             <ActionSummary>
               <option name="last" value="1581503173452" />
               <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Find">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508770154" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FindInPath">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508835081" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -50,11 +90,43 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="GotoDeclaration">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508829342" />
+              <option name="times" value="3" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="GotoFile">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508965038" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Tree-selectNext">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581509086026" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Vcs.Push">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505021461" />
-              <option name="times" value="1" />
+              <option name="last" value="1581508800314" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="Vcs.ShowTabbedFileHistory">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581509076830" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -66,19 +138,59 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508755362" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508758039" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581505661436" />
-              <option name="times" value="2" />
+              <option name="last" value="1581508967928" />
+              <option name="times" value="7" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$12">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581509089788" />
+              <option name="times" value="44" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="com.intellij.ui.ScrollingUtil$13">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581509070211" />
+              <option name="times" value="38" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="git4idea.ui.branch.GitBranchPopupActions$CompareAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581508386348" />
+              <option name="times" value="1" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="git4idea.ui.branch.GitBranchPopupActions$LocalBranchActions$CheckoutAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581507112477" />
-              <option name="times" value="8" />
+              <option name="last" value="1581508372541" />
+              <option name="times" value="9" />
             </ActionSummary>
           </value>
         </entry>
