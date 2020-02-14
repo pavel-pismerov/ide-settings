@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1581690390692" />
-              <option name="times" value="133" />
+              <option name="last" value="1581698993134" />
+              <option name="times" value="139" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,16 +501,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695762609" />
-              <option name="times" value="287" />
+              <option name="last" value="1581699081991" />
+              <option name="times" value="304" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698608975" />
-              <option name="times" value="67" />
+              <option name="last" value="1581698983104" />
+              <option name="times" value="69" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698229675" />
-              <option name="times" value="32" />
+              <option name="last" value="1581698945203" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
@@ -738,6 +738,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="SmartTypeCompletion">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581698929204" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="StepOver">
           <value>
             <ActionSummary>
@@ -746,11 +754,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Synchronize">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581698935824" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="TabList">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688585958" />
-              <option name="times" value="56" />
+              <option name="last" value="1581699024250" />
+              <option name="times" value="58" />
             </ActionSummary>
           </value>
         </entry>
@@ -829,8 +845,8 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581686379473" />
-              <option name="times" value="17" />
+              <option name="last" value="1581698991488" />
+              <option name="times" value="18" />
             </ActionSummary>
           </value>
         </entry>
@@ -933,8 +949,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698594116" />
-              <option name="times" value="146" />
+              <option name="last" value="1581698960913" />
+              <option name="times" value="150" />
             </ActionSummary>
           </value>
         </entry>
@@ -949,8 +965,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698610978" />
-              <option name="times" value="93" />
+              <option name="last" value="1581698984171" />
+              <option name="times" value="95" />
             </ActionSummary>
           </value>
         </entry>
