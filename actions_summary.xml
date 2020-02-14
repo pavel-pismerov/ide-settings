@@ -66,6 +66,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="ChangesView.Refresh">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581698562116" />
+              <option name="times" value="2" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="ChangesView.Revert">
           <value>
             <ActionSummary>
@@ -421,8 +429,8 @@
         <entry key="ExternalSystem.RefreshProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581696439395" />
-              <option name="times" value="4" />
+              <option name="last" value="1581698488496" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
@@ -501,8 +509,8 @@
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581690286924" />
-              <option name="times" value="66" />
+              <option name="last" value="1581698608975" />
+              <option name="times" value="67" />
             </ActionSummary>
           </value>
         </entry>
@@ -925,8 +933,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581696824811" />
-              <option name="times" value="142" />
+              <option name="last" value="1581698594116" />
+              <option name="times" value="146" />
             </ActionSummary>
           </value>
         </entry>
@@ -941,8 +949,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581696302234" />
-              <option name="times" value="92" />
+              <option name="last" value="1581698610978" />
+              <option name="times" value="93" />
             </ActionSummary>
           </value>
         </entry>
