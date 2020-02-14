@@ -61,8 +61,8 @@
         <entry key="ChangesView.ApplyPatch">
           <value>
             <ActionSummary>
-              <option name="last" value="1581601791506" />
-              <option name="times" value="1" />
+              <option name="last" value="1581693902491" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -605,16 +605,16 @@
         <entry key="RunDashboard.AddType">
           <value>
             <ActionSummary>
-              <option name="last" value="1581604709075" />
-              <option name="times" value="1" />
+              <option name="last" value="1581694050586" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="RunDashboard.Debug">
           <value>
             <ActionSummary>
-              <option name="last" value="1581691203606" />
-              <option name="times" value="43" />
+              <option name="last" value="1581694620988" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
@@ -629,16 +629,16 @@
         <entry key="RunDashboard.Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581689107273" />
-              <option name="times" value="30" />
+              <option name="last" value="1581694070869" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="RunDashboard.Stop">
           <value>
             <ActionSummary>
-              <option name="last" value="1581686806183" />
-              <option name="times" value="9" />
+              <option name="last" value="1581694966319" />
+              <option name="times" value="11" />
             </ActionSummary>
           </value>
         </entry>
@@ -869,8 +869,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581688916026" />
-              <option name="times" value="134" />
+              <option name="last" value="1581694727591" />
+              <option name="times" value="136" />
             </ActionSummary>
           </value>
         </entry>
