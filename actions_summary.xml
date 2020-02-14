@@ -117,8 +117,8 @@
         <entry key="Console.TableResult.Submit">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670583014" />
-              <option name="times" value="55" />
+              <option name="last" value="1581673352441" />
+              <option name="times" value="57" />
             </ActionSummary>
           </value>
         </entry>
@@ -157,16 +157,16 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670793778" />
-              <option name="times" value="346" />
+              <option name="last" value="1581673627348" />
+              <option name="times" value="350" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorChooseLookupItem">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670188679" />
-              <option name="times" value="85" />
+              <option name="last" value="1581673330143" />
+              <option name="times" value="86" />
             </ActionSummary>
           </value>
         </entry>
@@ -301,8 +301,8 @@
         <entry key="EditorRight">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670190335" />
-              <option name="times" value="44" />
+              <option name="last" value="1581673337550" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +365,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670744163" />
-              <option name="times" value="61" />
+              <option name="last" value="1581673799036" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -413,16 +413,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1581671139604" />
-              <option name="times" value="185" />
+              <option name="last" value="1581673844800" />
+              <option name="times" value="190" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670052448" />
-              <option name="times" value="49" />
+              <option name="last" value="1581673601071" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -701,16 +701,16 @@
         <entry key="com.intellij.database.run.ui.grid.GridFilterPanel$ApplyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581600891578" />
-              <option name="times" value="4" />
+              <option name="last" value="1581673337785" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670581663" />
-              <option name="times" value="6" />
+              <option name="last" value="1581673350351" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670783414" />
-              <option name="times" value="8" />
+              <option name="last" value="1581673800494" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
@@ -797,8 +797,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581670053384" />
-              <option name="times" value="68" />
+              <option name="last" value="1581673601791" />
+              <option name="times" value="69" />
             </ActionSummary>
           </value>
         </entry>
