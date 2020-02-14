@@ -413,8 +413,8 @@
         <entry key="ExternalSystem.RefreshProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695554012" />
-              <option name="times" value="3" />
+              <option name="last" value="1581696439395" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -645,8 +645,8 @@
         <entry key="RunDashboard.Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695995191" />
-              <option name="times" value="34" />
+              <option name="last" value="1581696403893" />
+              <option name="times" value="35" />
             </ActionSummary>
           </value>
         </entry>
@@ -898,11 +898,19 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="com.intellij.ide.ReopenProjectAction">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1581696387139" />
+              <option name="times" value="1" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581695453314" />
-              <option name="times" value="138" />
+              <option name="last" value="1581696421819" />
+              <option name="times" value="140" />
             </ActionSummary>
           </value>
         </entry>
