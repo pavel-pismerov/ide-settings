@@ -13,7 +13,6 @@
     <mask>*.mxml</mask>
     <mask>*.ht</mask>
     <mask>*spec.ts</mask>
-    <mask>*.yml</mask>
     <mask>*.</mask>
     <mask>*.gradle</mask>
     <mask>*.html</mask>
@@ -22,5 +21,6 @@
     <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.kt</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
