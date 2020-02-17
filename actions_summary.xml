@@ -229,8 +229,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1581928895883" />
-              <option name="times" value="193" />
+              <option name="last" value="1581946729876" />
+              <option name="times" value="194" />
             </ActionSummary>
           </value>
         </entry>
@@ -341,8 +341,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1581938223231" />
-              <option name="times" value="229" />
+              <option name="last" value="1581946731979" />
+              <option name="times" value="231" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,8 +453,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581943606143" />
-              <option name="times" value="126" />
+              <option name="last" value="1581946712785" />
+              <option name="times" value="129" />
             </ActionSummary>
           </value>
         </entry>
@@ -965,8 +965,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581928664681" />
-              <option name="times" value="28" />
+              <option name="last" value="1581946715798" />
+              <option name="times" value="30" />
             </ActionSummary>
           </value>
         </entry>
@@ -989,8 +989,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581934738675" />
-              <option name="times" value="190" />
+              <option name="last" value="1581946747022" />
+              <option name="times" value="194" />
             </ActionSummary>
           </value>
         </entry>
@@ -1005,8 +1005,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581938225111" />
-              <option name="times" value="121" />
+              <option name="last" value="1581946740228" />
+              <option name="times" value="123" />
             </ActionSummary>
           </value>
         </entry>
