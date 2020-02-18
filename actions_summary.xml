@@ -45,16 +45,16 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017889728" />
-              <option name="times" value="43" />
+              <option name="last" value="1582021062010" />
+              <option name="times" value="44" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018572249" />
-              <option name="times" value="236" />
+              <option name="last" value="1582021140299" />
+              <option name="times" value="238" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017839406" />
-              <option name="times" value="596" />
+              <option name="last" value="1582021083060" />
+              <option name="times" value="601" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018567171" />
-              <option name="times" value="449" />
+              <option name="last" value="1582021130271" />
+              <option name="times" value="450" />
             </ActionSummary>
           </value>
         </entry>
@@ -781,8 +781,8 @@
         <entry key="ShowIntentionActions">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017875387" />
-              <option name="times" value="68" />
+              <option name="last" value="1582021109620" />
+              <option name="times" value="72" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,16 +909,16 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018569002" />
-              <option name="times" value="42" />
+              <option name="last" value="1582021142248" />
+              <option name="times" value="45" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1581949242161" />
-              <option name="times" value="1" />
+              <option name="last" value="1582021145916" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -1053,8 +1053,8 @@
         <entry key="com.intellij.ide.projectView.impl.ProjectViewImpl$ScrollFromSourceAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010946908" />
-              <option name="times" value="198" />
+              <option name="last" value="1582021019272" />
+              <option name="times" value="200" />
             </ActionSummary>
           </value>
         </entry>
@@ -1077,8 +1077,8 @@
         <entry key="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017894077" />
-              <option name="times" value="13" />
+              <option name="last" value="1582021075326" />
+              <option name="times" value="14" />
             </ActionSummary>
           </value>
         </entry>
@@ -1093,8 +1093,8 @@
         <entry key="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581952867964" />
-              <option name="times" value="30" />
+              <option name="last" value="1582021067687" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
