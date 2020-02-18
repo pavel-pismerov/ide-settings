@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034478106" />
-              <option name="times" value="366" />
+              <option name="last" value="1582039378721" />
+              <option name="times" value="367" />
             </ActionSummary>
           </value>
         </entry>
@@ -557,16 +557,16 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034609160" />
-              <option name="times" value="620" />
+              <option name="last" value="1582039363736" />
+              <option name="times" value="622" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="GotoFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034514844" />
-              <option name="times" value="108" />
+              <option name="last" value="1582039322571" />
+              <option name="times" value="109" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="TabList">
           <value>
             <ActionSummary>
-              <option name="last" value="1582033795351" />
-              <option name="times" value="96" />
+              <option name="last" value="1582039320208" />
+              <option name="times" value="98" />
             </ActionSummary>
           </value>
         </entry>
@@ -1109,8 +1109,8 @@
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582034518452" />
-              <option name="times" value="173" />
+              <option name="last" value="1582039327043" />
+              <option name="times" value="174" />
             </ActionSummary>
           </value>
         </entry>
@@ -1181,8 +1181,8 @@
         <entry key="com.intellij.ui.ScrollingUtil$6">
           <value>
             <ActionSummary>
-              <option name="last" value="1582033848537" />
-              <option name="times" value="19" />
+              <option name="last" value="1582039326723" />
+              <option name="times" value="20" />
             </ActionSummary>
           </value>
         </entry>
