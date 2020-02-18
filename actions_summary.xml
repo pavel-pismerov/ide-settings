@@ -37,8 +37,8 @@
         <entry key="$Undo">
           <value>
             <ActionSummary>
-              <option name="last" value="1582018555744" />
-              <option name="times" value="176" />
+              <option name="last" value="1582022402003" />
+              <option name="times" value="178" />
             </ActionSummary>
           </value>
         </entry>
@@ -53,8 +53,8 @@
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021140299" />
-              <option name="times" value="238" />
+              <option name="last" value="1582022298203" />
+              <option name="times" value="242" />
             </ActionSummary>
           </value>
         </entry>
@@ -213,8 +213,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021083060" />
-              <option name="times" value="601" />
+              <option name="last" value="1582022112794" />
+              <option name="times" value="623" />
             </ActionSummary>
           </value>
         </entry>
@@ -453,16 +453,16 @@
         <entry key="Find">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017878965" />
-              <option name="times" value="40" />
+              <option name="last" value="1582022106058" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1582012615036" />
-              <option name="times" value="130" />
+              <option name="last" value="1582021954763" />
+              <option name="times" value="131" />
             </ActionSummary>
           </value>
         </entry>
@@ -541,8 +541,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021130271" />
-              <option name="times" value="450" />
+              <option name="last" value="1582022290095" />
+              <option name="times" value="452" />
             </ActionSummary>
           </value>
         </entry>
@@ -909,16 +909,16 @@
         <entry key="com.intellij.codeInsight.daemon.NavigateAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021142248" />
-              <option name="times" value="45" />
+              <option name="last" value="1582022284480" />
+              <option name="times" value="48" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1582021145916" />
-              <option name="times" value="2" />
+              <option name="last" value="1582021999643" />
+              <option name="times" value="3" />
             </ActionSummary>
           </value>
         </entry>
@@ -1061,16 +1061,16 @@
         <entry key="com.intellij.openapi.editor.impl.EditorGutterComponentImpl$CloseAnnotationsAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017895976" />
-              <option name="times" value="32" />
+              <option name="last" value="1582022041481" />
+              <option name="times" value="33" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582017463839" />
-              <option name="times" value="149" />
+              <option name="last" value="1582021983619" />
+              <option name="times" value="150" />
             </ActionSummary>
           </value>
         </entry>
