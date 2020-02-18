@@ -45,16 +45,16 @@
         <entry key="Annotate">
           <value>
             <ActionSummary>
-              <option name="last" value="1581953062218" />
-              <option name="times" value="39" />
+              <option name="last" value="1582012664051" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Back">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011090027" />
-              <option name="times" value="192" />
+              <option name="last" value="1582012809654" />
+              <option name="times" value="197" />
             </ActionSummary>
           </value>
         </entry>
@@ -349,8 +349,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011092881" />
-              <option name="times" value="259" />
+              <option name="last" value="1582012615598" />
+              <option name="times" value="260" />
             </ActionSummary>
           </value>
         </entry>
@@ -461,8 +461,8 @@
         <entry key="FindInPath">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946712785" />
-              <option name="times" value="129" />
+              <option name="last" value="1582012615036" />
+              <option name="times" value="130" />
             </ActionSummary>
           </value>
         </entry>
@@ -525,8 +525,8 @@
         <entry key="GotoDeclaration">
           <value>
             <ActionSummary>
-              <option name="last" value="1582011087771" />
-              <option name="times" value="407" />
+              <option name="last" value="1582012804893" />
+              <option name="times" value="414" />
             </ActionSummary>
           </value>
         </entry>
@@ -861,8 +861,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582010694543" />
-              <option name="times" value="25" />
+              <option name="last" value="1582012812238" />
+              <option name="times" value="27" />
             </ActionSummary>
           </value>
         </entry>
@@ -997,8 +997,8 @@
         <entry key="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1581946715798" />
-              <option name="times" value="30" />
+              <option name="last" value="1582012617654" />
+              <option name="times" value="32" />
             </ActionSummary>
           </value>
         </entry>
