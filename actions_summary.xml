@@ -13,8 +13,8 @@
         <entry key="$Delete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582016991178" />
-              <option name="times" value="50" />
+              <option name="last" value="1582114869000" />
+              <option name="times" value="51" />
             </ActionSummary>
           </value>
         </entry>
@@ -149,16 +149,16 @@
         <entry key="Console.TableResult.Reload">
           <value>
             <ActionSummary>
-              <option name="last" value="1581696329537" />
-              <option name="times" value="50" />
+              <option name="last" value="1582114947848" />
+              <option name="times" value="56" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Console.TableResult.Submit">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113738077" />
-              <option name="times" value="126" />
+              <option name="last" value="1582114870921" />
+              <option name="times" value="129" />
             </ActionSummary>
           </value>
         </entry>
@@ -189,8 +189,8 @@
         <entry key="DatabaseView.Refresh">
           <value>
             <ActionSummary>
-              <option name="last" value="1581928567611" />
-              <option name="times" value="63" />
+              <option name="last" value="1582114956306" />
+              <option name="times" value="65" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,16 +205,16 @@
         <entry key="Docker.RemoteServers.ExecInContainer">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112650217" />
-              <option name="times" value="6" />
+              <option name="last" value="1582114067439" />
+              <option name="times" value="10" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113705480" />
-              <option name="times" value="795" />
+              <option name="last" value="1582114841310" />
+              <option name="times" value="798" />
             </ActionSummary>
           </value>
         </entry>
@@ -253,8 +253,8 @@
         <entry key="EditorDelete">
           <value>
             <ActionSummary>
-              <option name="last" value="1582052142957" />
-              <option name="times" value="333" />
+              <option name="last" value="1582113885638" />
+              <option name="times" value="334" />
             </ActionSummary>
           </value>
         </entry>
@@ -317,8 +317,8 @@
         <entry key="EditorLeft">
           <value>
             <ActionSummary>
-              <option name="last" value="1582047899016" />
-              <option name="times" value="283" />
+              <option name="last" value="1582114822003" />
+              <option name="times" value="328" />
             </ActionSummary>
           </value>
         </entry>
@@ -757,8 +757,8 @@
         <entry key="RunDashboard.Run">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113758628" />
-              <option name="times" value="49" />
+              <option name="last" value="1582114985417" />
+              <option name="times" value="54" />
             </ActionSummary>
           </value>
         </entry>
@@ -773,8 +773,8 @@
         <entry key="SaveAll">
           <value>
             <ActionSummary>
-              <option name="last" value="1582052317717" />
-              <option name="times" value="74" />
+              <option name="last" value="1582114825542" />
+              <option name="times" value="75" />
             </ActionSummary>
           </value>
         </entry>
@@ -981,16 +981,16 @@
         <entry key="com.intellij.database.run.ui.grid.GridFilterPanel$ApplyAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113709598" />
-              <option name="times" value="21" />
+              <option name="last" value="1582113886133" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$2">
           <value>
             <ActionSummary>
-              <option name="last" value="1582113735486" />
-              <option name="times" value="30" />
+              <option name="last" value="1582114840022" />
+              <option name="times" value="31" />
             </ActionSummary>
           </value>
         </entry>
