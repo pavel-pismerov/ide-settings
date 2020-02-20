@@ -938,6 +938,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="Stop">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582232987374" />
+              <option name="times" value="4" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="Synchronize">
           <value>
             <ActionSummary>
