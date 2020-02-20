@@ -213,8 +213,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582215118087" />
-              <option name="times" value="1006" />
+              <option name="last" value="1582217437045" />
+              <option name="times" value="1007" />
             </ActionSummary>
           </value>
         </entry>
@@ -573,16 +573,16 @@
         <entry key="Git.Stash">
           <value>
             <ActionSummary>
-              <option name="last" value="1582045379056" />
-              <option name="times" value="3" />
+              <option name="last" value="1582217435405" />
+              <option name="times" value="5" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Git.Unstash">
           <value>
             <ActionSummary>
-              <option name="last" value="1582045414875" />
-              <option name="times" value="3" />
+              <option name="last" value="1582217513900" />
+              <option name="times" value="4" />
             </ActionSummary>
           </value>
         </entry>
@@ -725,8 +725,8 @@
         <entry key="OpenFile">
           <value>
             <ActionSummary>
-              <option name="last" value="1581698700733" />
-              <option name="times" value="6" />
+              <option name="last" value="1582217366715" />
+              <option name="times" value="7" />
             </ActionSummary>
           </value>
         </entry>
@@ -997,8 +997,8 @@
         <entry key="Vcs.UpdateProject">
           <value>
             <ActionSummary>
-              <option name="last" value="1582112149591" />
-              <option name="times" value="39" />
+              <option name="last" value="1582217464538" />
+              <option name="times" value="41" />
             </ActionSummary>
           </value>
         </entry>
