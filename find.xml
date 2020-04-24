@@ -19,8 +19,8 @@
     <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
-    <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
