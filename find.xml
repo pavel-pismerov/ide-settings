@@ -3,6 +3,7 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -16,9 +17,9 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.kt</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.ts</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
