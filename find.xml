@@ -1,10 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -20,7 +19,7 @@
     <mask>*.xml</mask>
     <mask>*.ts</mask>
     <mask>*.kt</mask>
-    <mask>*.html</mask>
     <mask>*.yml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
