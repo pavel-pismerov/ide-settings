@@ -16,11 +16,11 @@
     <mask>*.</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
-    <mask>*.xml</mask>
     <mask>*.ts</mask>
     <mask>*.kt</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.yml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
