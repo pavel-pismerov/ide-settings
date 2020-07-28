@@ -16,9 +16,9 @@
     <mask>*.ts</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.kt</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
