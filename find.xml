@@ -16,7 +16,6 @@
     <mask>*.ht</mask>
     <mask>*spec.ts</mask>
     <mask>*.</mask>
-    <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,5 +23,6 @@
     <mask>*.ts</mask>
     <mask>*.kt</mask>
     <mask>*.yml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
