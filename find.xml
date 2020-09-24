@@ -14,13 +14,13 @@
     <mask>*.ht</mask>
     <mask>*spec.ts</mask>
     <mask>*.</mask>
-    <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.html</mask>
-    <mask>*.ts</mask>
     <mask>*.kt</mask>
+    <mask>*.scss</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
