@@ -20,9 +20,9 @@
     <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
-    <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.kt</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
