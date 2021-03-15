@@ -13,12 +13,12 @@
     <mask>*spec.ts</mask>
     <mask>*.</mask>
     <mask>*.gradle</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.kt</mask>
+    <mask>*.yml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
