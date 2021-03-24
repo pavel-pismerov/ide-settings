@@ -190,9 +190,13 @@
           <option name="url" value="git@bitbucket.org:iotaTechLtd/gtw-perf-config-properties.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bitbucket.org:iotaTechLtd/iota-invoicing-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/DEV/ACTUAL" />
+    <option name="cloneParentDir" value="$USER_HOME$/DEV/ACTUAL/services" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
