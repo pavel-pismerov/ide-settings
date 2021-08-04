@@ -3,7 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
@@ -19,9 +19,9 @@
     <mask>*.yaml</mask>
     <mask>*spec.ts</mask>
     <mask>*.java</mask>
-    <mask>*.ts</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
